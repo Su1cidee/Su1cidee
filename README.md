@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **WebAssembly (WASM))**
 
-- 💬 Ask me about **C, C++, Java, python, etc.**
+- 💬 Ask me about **Assembly, C, C++.**
 
 - 📫 How to reach me **notshezanshaikh@gmail.com**
 
