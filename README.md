@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my final year project for SEM IV**
 
-- 🌱 I’m currently learning **Assembly (ASM))**
+- 🌱 I’m currently learning **x86 Assembly**
 
 - 💬 Ask me about **Assembly, C, C++.**
 
