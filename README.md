@@ -1,7 +1,7 @@
 ![logo](https://github.com/Su1cidee/Su1cidee/blob/main/%40su1cidee.png)
 
 <h1 align="center">Hi 👋, I'm Shezan Shaikh</h1>
-<h3 align="center">Learning various low level languages. Not much of a Web Fan.</h3>
+<h3 align="center">Learning low level languages. Not much of a Web Fan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=su1cidee&label=Profile%20views&color=0e75b6&style=flat" alt="su1cidee" /> </p>
 
